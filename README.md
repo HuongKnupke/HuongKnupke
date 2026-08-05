@@ -1,21 +1,18 @@
-## Huong Knupke
+### Huong Knupke's Quantum Leap into Code
 
-A sentient spreadsheet, plotting the contours of Customer Markets. 
+A metric maven by day, caffeine-fueled coder by night.
 
-**Tools of the Trade:**
-* `go build` for crunching numbers
-* `redis` for storing the freshest insights
-* `linux` for the raw power
-* `azure` for the high-altitude views
-* `vue` for the modern design
+**Tools of the Trade: **
+Kotlin (the language of the gods)
+PostgreSQL (database wizardry)
+Vue (web dev sorcery)
+React (JS magic)
+Docker (container whisperer)
+SQL (data ninja)
+NestJS (server-side superhero)
 
-**Fuel for the Mind:**
-* coffee, in all its glorious forms
+**Focus: **Bypassing bandwidths with lightning-fast algorithms.
 
-**Mission:**
-* Compressing panels, one algorithm at a time
+**Motto: **Streamlined national support, one line of code at a time.
 
-**Motto:**
-* Fundamental logistical encryption
-
-## Let's do this!
+A coffee addict with a penchant for puzzles.
